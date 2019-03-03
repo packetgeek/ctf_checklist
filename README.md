@@ -4,6 +4,9 @@ Following is a list of things to try when you're brain-dead in a CTF.  For now, 
 
 * [arp - check for hidden IPs](#arp---check-for-hidden-IPs)
 * [google is your friend](#google-is-your-friend)
+* [sniff your own traffic](#sniff-your-own-traffic)
+* [sudo - listing capabilities](#sudo---listing-capabilities)
+* [sudo - sudo plus su](#sudo---sudo-plus-su)
 
 ## <a name="#arphiddenips"></a>arp - check for hidden IPs
 
