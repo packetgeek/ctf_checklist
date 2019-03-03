@@ -31,11 +31,11 @@ means that if you run:
 ```c
 sudo vim /home/ctf/*/*/EditMe.txt
 ```
-You'll be editing that file with root permissions.  Then, while vim's command mode, try running:
+You'll be editing that file with root permissions.  Then, while in vim's command mode, try running:
 ```c
 :shell
 ```
-to get a shell, where you might be able to do things like:
+to temporarily exit to a shell. From there, you might be able to do things like:
 ```c
 cat /root/flag.txt
 ```
