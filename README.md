@@ -16,6 +16,10 @@ If the rules allow, always perform a Google search first (esp. for password crac
 
 Be sure to ***CHECK THE CTF RULES*** before doing this sort of thing.
 
+## sniff your own traffic
+
+When you're running tools on the network, it's often valuable to record your own traffic (e.g., with tcpdump or similar).  When you have a pcap file, if you missed something that you were supposed to catch, you won't have to redo the entire question.  Just load the pcap file in Wireshark or run it through tcpreplay and sniff it again.
+
 ## sudo - listing capabilities
 
 If you have an actual shell on a machine, run the following:
