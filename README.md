@@ -2,13 +2,13 @@
 
 Following is a list of things to try when you're brain-dead in a CTF.  For now, they're in no particular order.  This list will change over time as additional content is added.
 
-* [arp - check for hidden IPs](#arp---check-for-hidden-IPs)
+* [arp - check for hidden connections](#arp---check-for-hidden-connections)
 * [google is your friend](#google-is-your-friend)
 * [sniff your own traffic](#sniff-your-own-traffic)
 * [sudo - listing capabilities](#sudo---listing-capabilities)
 * [sudo - sudo plus su](#sudo---sudo-plus-su)
 
-## <a name="#arphiddenips"></a>arp - check for hidden IPs
+## arp - check for hidden connections
 
 Sometimes a CTF organizer will hide a machine behind another (causing you to miss the machine in a network scan).  Once you have access to a machine, one of the things you should do is list the arp table via:
 ```c
