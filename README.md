@@ -3,7 +3,7 @@
 Following is a list of things to try when you're brain-dead in a CTF.  For now, they're in no particular order.  This list will change over time as additional content is added.
 
 * <a href="#arphiddenips">arp - check for hidden IPs</a>
-* <a href="#googleisyourfriend">google is your friend</a>
+* [google is your friend](#markdown-header-google-is-your-friend)
 
 ## <a name="#arphiddenips"></a>arp - check for hidden IPs
 
