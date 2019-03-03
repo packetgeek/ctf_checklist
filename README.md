@@ -48,7 +48,7 @@ For awhile, a certain vendor's serial controllers were susceptable to an issue w
 su - root
 sudo -s
 ```
-but the following would work:
+the following did work:
 ```c
 sudo su - root
 ```
